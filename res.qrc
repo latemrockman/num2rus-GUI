@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="image"/>
+  <qresource prefix="icon">
+    <file>num2rus.ico</file>
+  </qresource>
+</RCC>
